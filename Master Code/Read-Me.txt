@@ -1,0 +1,3 @@
+This section consists of the master code which was utilised for various parts of the analysis.
+Certain sections of the code were executed conditionally based on the results obtained for
+each index.
